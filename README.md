@@ -12,7 +12,21 @@ The application features tested include:
 * Product Search
 * Shopping Cart Functionality
 * Checkout Process
+---
 
+## Project Files
+
+### Test Documentation
+
+- QA_Portfolio_Test_Cases_and_Bug_Reports.xlsx
+
+Contains:
+
+- Login Test Cases
+- Search Test Cases
+- Shopping Cart Test Cases
+- Checkout Test Cases
+- Bug Reports
 ---
 
 # Testing Scope

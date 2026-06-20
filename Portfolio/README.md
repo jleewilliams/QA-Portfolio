@@ -30,7 +30,8 @@ The examples focus on:
 -   SUM()
 -   AVG()
 -   MAX()
-
+-   CASE
+-   HAVING
 ### Joins & Relationships
 
 -   LEFT JOIN
